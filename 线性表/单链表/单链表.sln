@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单链表", "单链表.vcxproj", "{EA2995BA-7CDA-4462-8301-83CEA6B782D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2995BA-7CDA-4462-8301-83CEA6B782D2}.Debug|x64.ActiveCfg = Debug|x64
+		{EA2995BA-7CDA-4462-8301-83CEA6B782D2}.Debug|x64.Build.0 = Debug|x64
+		{EA2995BA-7CDA-4462-8301-83CEA6B782D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA2995BA-7CDA-4462-8301-83CEA6B782D2}.Debug|x86.Build.0 = Debug|Win32
+		{EA2995BA-7CDA-4462-8301-83CEA6B782D2}.Release|x64.ActiveCfg = Release|x64
+		{EA2995BA-7CDA-4462-8301-83CEA6B782D2}.Release|x64.Build.0 = Release|x64
+		{EA2995BA-7CDA-4462-8301-83CEA6B782D2}.Release|x86.ActiveCfg = Release|Win32
+		{EA2995BA-7CDA-4462-8301-83CEA6B782D2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF9C46FB-C145-4249-83F3-4631759D6EB7}
+	EndGlobalSection
+EndGlobal
